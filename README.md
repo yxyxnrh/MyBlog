@@ -4,10 +4,9 @@
 
 ## 技术介绍
 
-**前端：** Vue3 + Pinia + Vue Router + TypeScript + Axios + Element Plus + Naive UI + Echarts + Swiper
+**前端：** Vue3 + Pinia + Vue Router + TypeScript + Axios + Element Plus + Naive UI + Echarts
 
-**后端：** SpringBoot + Mysql + Redis + Quartz + Thymeleaf + Nginx + Docker + Sa-Token + Swagger2 + MyBatisPlus + ElasticSearch + RabbitMQ + Canal
-
+**后端：** SpringBoot + Mysql + Redis + Quartz + Thymeleaf + Nginx + Docker  ElasticSearch + RabbitMQ
 
 ## 项目特点
 
@@ -19,6 +18,7 @@
 - 说说、友链、相册、留言弹幕墙、音乐播放器
 - 支持代码高亮、图片预览、黑夜模式、点赞、取消点赞等功能
 - 发布评论、回复评论、表情包
+- 
 - 发送 HTML 邮件评论回复提醒，内容详细
 - 接入第三方登录，减少注册成本
 - 文章搜索支持关键字高亮分词
